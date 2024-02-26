@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="622a18ae47e00210f8ad13ff016d4382" sys_domain="global" table="sys_db_object" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table_col_embedded</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 21:18:12</sys_created_on>
+            <sys_id>622a18ae47e00210f8ad13ff016d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Table Columns Formatter">5a2795d4bf7030001875647fcf0739d7</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="NULL">622a18ae47e00210f8ad13ff016d4382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 21:18:12</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_58872_needit_complete</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 21:18:12</sys_created_on>
+            <sys_id>262a18ae47e00210f8ad13ff016d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="NULL">622a18ae47e00210f8ad13ff016d4382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 21:18:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-26 21:18:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>622a18ae47e00210f8ad13ff016d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_622a18ae47e00210f8ad13ff016d4382</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-26 21:18:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view/>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
